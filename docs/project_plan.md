@@ -17,7 +17,7 @@
 
 ## 2. Sprint Goal
 
-> Deliver, by **[DUE DATE]**, a complete analysis of Challenge 1 in a reproducible Jupyter Notebook that identifies which characteristics are associated with more views and higher ratings on Netflix, with at least 3 visualizations, 3 business insights and a documented GitHub repository.
+> Deliver, by **22/11/2026**, a complete analysis of Challenge 1 in a reproducible Jupyter Notebook that identifies which characteristics are associated with more views and higher ratings on Netflix, with at least 3 visualizations, 3 business insights and a documented GitHub repository.
 
 ## 3. Risks and Mitigation
 
