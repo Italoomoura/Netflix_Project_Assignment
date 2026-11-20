@@ -1,0 +1,25 @@
+movie_id,title,duration,release_year,genre,director,cast
+1,The Last Signal,112,2018,Science Fiction,Mara Collins,Ethan Cole; Sofia Reyes
+2,Neon Horizon,124,2021,Science Fiction,Daniel Kim,Lena Park; Marcus Reed
+3,Orbit 9,98,2016,Science Fiction,Mara Collins,Noah Bennett; Ava Brooks
+4,Silent Planet,135,2023,Science Fiction,Priya Shah,Sofia Reyes; Oliver Grant
+5,Echoes of Tomorrow,107,2020,Science Fiction,Daniel Kim,Lena Park; Ethan Cole
+6,Midnight Runaway,101,2017,Thriller,Lucas Meyer,Mia Foster; Noah Bennett
+7,The Glass Room,119,2022,Thriller,Priya Shah,Oliver Grant; Ava Brooks
+8,Cold Evidence,109,2019,Thriller,Lucas Meyer,Marcus Reed; Mia Foster
+9,No Way Back,128,2024,Thriller,Elena Rossi,Sofia Reyes; Noah Bennett
+10,Shadows Below,95,2015,Horror,Elena Rossi,Ava Brooks; Ethan Cole
+11,The Hollow House,103,2021,Horror,Lucas Meyer,Mia Foster; Oliver Grant
+12,Red Harvest,116,2018,Horror,Priya Shah,Marcus Reed; Lena Park
+13,A Summer Apart,108,2016,Romance,Isabel Costa,Sofia Reyes; Oliver Grant
+14,Letters in December,114,2020,Romance,Isabel Costa,Mia Foster; Ethan Cole
+15,Almost Yesterday,99,2023,Romance,Daniel Kim,Ava Brooks; Noah Bennett
+16,City of Small Things,122,2019,Drama,Mara Collins,Lena Park; Marcus Reed
+17,The Long Way Home,131,2022,Drama,Elena Rossi,Oliver Grant; Mia Foster
+18,Paper Bridges,104,2017,Drama,Isabel Costa,Ethan Cole; Sofia Reyes
+19,Final Whistle,106,2015,Comedy,Lucas Meyer,Noah Bennett; Marcus Reed
+20,Roommates,97,2021,Comedy,Daniel Kim,Ava Brooks; Lena Park
+21,Weekend Protocol,113,2024,Comedy,Isabel Costa,Mia Foster; Oliver Grant
+22,Deep Blue,126,2018,Adventure,Priya Shah,Ethan Cole; Marcus Reed
+23,The Forgotten Map,118,2020,Adventure,Mara Collins,Noah Bennett; Sofia Reyes
+24,Beyond the Ridge,139,2023,Adventure,Elena Rossi,Oliver Grant; Ava Brooks
