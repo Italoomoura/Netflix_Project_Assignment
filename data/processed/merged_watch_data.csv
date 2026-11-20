@@ -1,0 +1,121 @@
+user_id,movie_id,title,genre,duration_min,release_year,director,cast,rating,watch_date,watch_month,age,gender,user_country
+101,6,Midnight Runaway,Thriller,101,2017,Lucas Meyer,Mia Foster; Noah Bennett,2,2025-01-05,2025-01,19,Male,Germany
+102,14,Letters in December,Romance,114,2020,Isabel Costa,Mia Foster; Ethan Cole,5,2025-01-10,2025-01,24,Female,Brazil
+103,8,Cold Evidence,Thriller,109,2019,Lucas Meyer,Marcus Reed; Mia Foster,4,2025-01-15,2025-01,31,Male,Portugal
+104,1,The Last Signal,Science Fiction,112,2018,Mara Collins,Ethan Cole; Sofia Reyes,4,2025-01-20,2025-01,27,Female,Spain
+105,12,Red Harvest,Horror,116,2018,Priya Shah,Marcus Reed; Lena Park,4,2025-01-25,2025-01,22,Male,United States
+108,1,The Last Signal,Science Fiction,112,2018,Mara Collins,Ethan Cole; Sofia Reyes,4,2025-01-26,2025-01,21,Female,Germany
+106,16,City of Small Things,Drama,122,2019,Mara Collins,Lena Park; Marcus Reed,5,2025-01-30,2025-01,35,Female,United Kingdom
+109,8,Cold Evidence,Thriller,109,2019,Lucas Meyer,Marcus Reed; Mia Foster,4,2025-01-31,2025-01,42,Male,Poland
+107,2,Neon Horizon,Science Fiction,124,2021,Daniel Kim,Lena Park; Marcus Reed,5,2025-02-04,2025-02,29,Male,Brazil
+110,3,Orbit 9,Science Fiction,98,2016,Mara Collins,Noah Bennett; Ava Brooks,3,2025-02-05,2025-02,26,Female,Portugal
+111,22,Deep Blue,Adventure,126,2018,Priya Shah,Ethan Cole; Marcus Reed,5,2025-02-10,2025-02,33,Male,Canada
+112,11,The Hollow House,Horror,103,2021,Lucas Meyer,Mia Foster; Oliver Grant,4,2025-02-15,2025-02,18,Female,Germany
+115,2,Neon Horizon,Science Fiction,124,2021,Daniel Kim,Lena Park; Marcus Reed,5,2025-02-16,2025-02,30,Male,Spain
+113,4,Silent Planet,Science Fiction,135,2023,Priya Shah,Sofia Reyes; Oliver Grant,4,2025-02-20,2025-02,38,Male,Brazil
+116,4,Silent Planet,Science Fiction,135,2023,Priya Shah,Sofia Reyes; Oliver Grant,5,2025-02-21,2025-02,23,Female,Portugal
+114,20,Roommates,Comedy,97,2021,Daniel Kim,Ava Brooks; Lena Park,2,2025-02-25,2025-02,25,Female,Italy
+117,6,Midnight Runaway,Thriller,101,2017,Lucas Meyer,Mia Foster; Noah Bennett,5,2025-02-26,2025-02,45,Male,United States
+118,4,Silent Planet,Science Fiction,135,2023,Priya Shah,Sofia Reyes; Oliver Grant,3,2025-03-03,2025-03,28,Male,United Kingdom
+119,5,Echoes of Tomorrow,Science Fiction,107,2020,Daniel Kim,Lena Park; Ethan Cole,3,2025-03-08,2025-03,20,Female,Brazil
+102,6,Midnight Runaway,Thriller,101,2017,Lucas Meyer,Mia Foster; Noah Bennett,4,2025-03-09,2025-03,24,Female,Brazil
+120,24,Beyond the Ridge,Adventure,139,2023,Elena Rossi,Oliver Grant; Ava Brooks,5,2025-03-13,2025-03,36,Male,Germany
+103,9,No Way Back,Thriller,128,2024,Elena Rossi,Sofia Reyes; Noah Bennett,3,2025-03-14,2025-03,31,Male,Portugal
+101,1,The Last Signal,Science Fiction,112,2018,Mara Collins,Ethan Cole; Sofia Reyes,5,2025-03-18,2025-03,19,Male,Germany
+104,17,The Long Way Home,Drama,131,2022,Elena Rossi,Oliver Grant; Mia Foster,5,2025-03-19,2025-03,27,Female,Spain
+105,7,The Glass Room,Thriller,119,2022,Priya Shah,Oliver Grant; Ava Brooks,5,2025-03-24,2025-03,22,Male,United States
+106,17,The Long Way Home,Drama,131,2022,Elena Rossi,Oliver Grant; Mia Foster,4,2025-03-29,2025-03,35,Female,United Kingdom
+109,9,No Way Back,Thriller,128,2024,Elena Rossi,Sofia Reyes; Noah Bennett,5,2025-03-30,2025-03,42,Male,Poland
+107,21,Weekend Protocol,Comedy,113,2024,Isabel Costa,Mia Foster; Oliver Grant,2,2025-04-03,2025-04,29,Male,Brazil
+110,13,A Summer Apart,Romance,108,2016,Isabel Costa,Sofia Reyes; Oliver Grant,4,2025-04-04,2025-04,26,Female,Portugal
+108,11,The Hollow House,Horror,103,2021,Lucas Meyer,Mia Foster; Oliver Grant,3,2025-04-08,2025-04,21,Female,Germany
+111,8,Cold Evidence,Thriller,109,2019,Lucas Meyer,Marcus Reed; Mia Foster,4,2025-04-09,2025-04,33,Male,Canada
+112,12,Red Harvest,Horror,116,2018,Priya Shah,Marcus Reed; Lena Park,3,2025-04-14,2025-04,18,Female,Germany
+113,23,The Forgotten Map,Adventure,118,2020,Mara Collins,Noah Bennett; Sofia Reyes,5,2025-04-19,2025-04,38,Male,Brazil
+116,17,The Long Way Home,Drama,131,2022,Elena Rossi,Oliver Grant; Mia Foster,3,2025-04-20,2025-04,23,Female,Portugal
+114,9,No Way Back,Thriller,128,2024,Elena Rossi,Sofia Reyes; Noah Bennett,5,2025-04-24,2025-04,25,Female,Italy
+117,2,Neon Horizon,Science Fiction,124,2021,Daniel Kim,Lena Park; Marcus Reed,3,2025-04-25,2025-04,45,Male,United States
+115,2,Neon Horizon,Science Fiction,124,2021,Daniel Kim,Lena Park; Marcus Reed,4,2025-04-29,2025-04,30,Male,Spain
+118,4,Silent Planet,Science Fiction,135,2023,Priya Shah,Sofia Reyes; Oliver Grant,5,2025-04-30,2025-04,28,Male,United Kingdom
+119,15,Almost Yesterday,Romance,99,2023,Daniel Kim,Ava Brooks; Noah Bennett,4,2025-05-05,2025-05,20,Female,Brazil
+120,10,Shadows Below,Horror,95,2015,Elena Rossi,Ava Brooks; Ethan Cole,3,2025-05-10,2025-05,36,Male,Germany
+103,5,Echoes of Tomorrow,Science Fiction,107,2020,Daniel Kim,Lena Park; Ethan Cole,5,2025-05-11,2025-05,31,Male,Portugal
+101,1,The Last Signal,Science Fiction,112,2018,Mara Collins,Ethan Cole; Sofia Reyes,4,2025-05-15,2025-05,19,Male,Germany
+104,18,Paper Bridges,Drama,104,2017,Isabel Costa,Ethan Cole; Sofia Reyes,4,2025-05-16,2025-05,27,Female,Spain
+102,13,A Summer Apart,Romance,108,2016,Isabel Costa,Sofia Reyes; Oliver Grant,5,2025-05-20,2025-05,24,Female,Brazil
+105,11,The Hollow House,Horror,103,2021,Lucas Meyer,Mia Foster; Oliver Grant,4,2025-05-21,2025-05,22,Male,United States
+106,12,Red Harvest,Horror,116,2018,Priya Shah,Marcus Reed; Lena Park,3,2025-05-26,2025-05,35,Female,United Kingdom
+107,19,Final Whistle,Comedy,106,2015,Lucas Meyer,Noah Bennett; Marcus Reed,5,2025-05-31,2025-05,29,Male,Brazil
+110,14,Letters in December,Romance,114,2020,Isabel Costa,Mia Foster; Ethan Cole,3,2025-06-01,2025-06,26,Female,Portugal
+108,1,The Last Signal,Science Fiction,112,2018,Mara Collins,Ethan Cole; Sofia Reyes,4,2025-06-05,2025-06,21,Female,Germany
+111,24,Beyond the Ridge,Adventure,139,2023,Elena Rossi,Oliver Grant; Ava Brooks,5,2025-06-06,2025-06,33,Male,Canada
+109,13,A Summer Apart,Romance,108,2016,Isabel Costa,Sofia Reyes; Oliver Grant,4,2025-06-10,2025-06,42,Male,Poland
+112,16,City of Small Things,Drama,122,2019,Mara Collins,Lena Park; Marcus Reed,5,2025-06-11,2025-06,18,Female,Germany
+113,24,Beyond the Ridge,Adventure,139,2023,Elena Rossi,Oliver Grant; Ava Brooks,4,2025-06-16,2025-06,38,Male,Brazil
+114,19,Final Whistle,Comedy,106,2015,Lucas Meyer,Noah Bennett; Marcus Reed,3,2025-06-21,2025-06,25,Female,Italy
+117,8,Cold Evidence,Thriller,109,2019,Lucas Meyer,Marcus Reed; Mia Foster,5,2025-06-22,2025-06,45,Male,United States
+115,17,The Long Way Home,Drama,131,2022,Elena Rossi,Oliver Grant; Mia Foster,3,2025-06-26,2025-06,30,Male,Spain
+118,20,Roommates,Comedy,97,2021,Daniel Kim,Ava Brooks; Lena Park,4,2025-06-27,2025-06,28,Male,United Kingdom
+116,18,Paper Bridges,Drama,104,2017,Isabel Costa,Ethan Cole; Sofia Reyes,5,2025-07-01,2025-07,23,Female,Portugal
+119,13,A Summer Apart,Romance,108,2016,Isabel Costa,Sofia Reyes; Oliver Grant,3,2025-07-02,2025-07,20,Female,Brazil
+120,23,The Forgotten Map,Adventure,118,2020,Mara Collins,Noah Bennett; Sofia Reyes,5,2025-07-07,2025-07,36,Male,Germany
+101,23,The Forgotten Map,Adventure,118,2020,Mara Collins,Noah Bennett; Sofia Reyes,5,2025-07-12,2025-07,19,Male,Germany
+104,19,Final Whistle,Comedy,106,2015,Lucas Meyer,Noah Bennett; Marcus Reed,3,2025-07-13,2025-07,27,Female,Spain
+102,14,Letters in December,Romance,114,2020,Isabel Costa,Mia Foster; Ethan Cole,4,2025-07-17,2025-07,24,Female,Brazil
+105,12,Red Harvest,Horror,116,2018,Priya Shah,Marcus Reed; Lena Park,5,2025-07-18,2025-07,22,Male,United States
+103,7,The Glass Room,Thriller,119,2022,Priya Shah,Oliver Grant; Ava Brooks,3,2025-07-22,2025-07,31,Male,Portugal
+106,16,City of Small Things,Drama,122,2019,Mara Collins,Lena Park; Marcus Reed,3,2025-07-23,2025-07,35,Female,United Kingdom
+107,17,The Long Way Home,Drama,131,2022,Elena Rossi,Oliver Grant; Mia Foster,4,2025-07-28,2025-07,29,Male,Brazil
+108,1,The Last Signal,Science Fiction,112,2018,Mara Collins,Ethan Cole; Sofia Reyes,3,2025-08-02,2025-08,21,Female,Germany
+111,22,Deep Blue,Adventure,126,2018,Priya Shah,Ethan Cole; Marcus Reed,4,2025-08-03,2025-08,33,Male,Canada
+109,7,The Glass Room,Thriller,119,2022,Priya Shah,Oliver Grant; Ava Brooks,5,2025-08-07,2025-08,42,Male,Poland
+112,11,The Hollow House,Horror,103,2021,Lucas Meyer,Mia Foster; Oliver Grant,3,2025-08-08,2025-08,18,Female,Germany
+110,21,Weekend Protocol,Comedy,113,2024,Isabel Costa,Mia Foster; Oliver Grant,5,2025-08-12,2025-08,26,Female,Portugal
+113,19,Final Whistle,Comedy,106,2015,Lucas Meyer,Noah Bennett; Marcus Reed,3,2025-08-13,2025-08,38,Male,Brazil
+114,20,Roommates,Comedy,97,2021,Daniel Kim,Ava Brooks; Lena Park,5,2025-08-18,2025-08,25,Female,Italy
+115,2,Neon Horizon,Science Fiction,124,2021,Daniel Kim,Lena Park; Marcus Reed,4,2025-08-23,2025-08,30,Male,Spain
+118,4,Silent Planet,Science Fiction,135,2023,Priya Shah,Sofia Reyes; Oliver Grant,5,2025-08-24,2025-08,28,Male,United Kingdom
+116,22,Deep Blue,Adventure,126,2018,Priya Shah,Ethan Cole; Marcus Reed,4,2025-08-28,2025-08,23,Female,Portugal
+119,23,The Forgotten Map,Adventure,118,2020,Mara Collins,Noah Bennett; Sofia Reyes,4,2025-08-29,2025-08,20,Female,Brazil
+117,9,No Way Back,Thriller,128,2024,Elena Rossi,Sofia Reyes; Noah Bennett,4,2025-09-02,2025-09,45,Male,United States
+120,24,Beyond the Ridge,Adventure,139,2023,Elena Rossi,Oliver Grant; Ava Brooks,4,2025-09-03,2025-09,36,Male,Germany
+101,1,The Last Signal,Science Fiction,112,2018,Mara Collins,Ethan Cole; Sofia Reyes,4,2025-09-08,2025-09,19,Male,Germany
+102,24,Beyond the Ridge,Adventure,139,2023,Elena Rossi,Oliver Grant; Ava Brooks,3,2025-09-13,2025-09,24,Female,Brazil
+105,1,The Last Signal,Science Fiction,112,2018,Mara Collins,Ethan Cole; Sofia Reyes,4,2025-09-14,2025-09,22,Male,United States
+103,8,Cold Evidence,Thriller,109,2019,Lucas Meyer,Marcus Reed; Mia Foster,5,2025-09-18,2025-09,31,Male,Portugal
+106,17,The Long Way Home,Drama,131,2022,Elena Rossi,Oliver Grant; Mia Foster,3,2025-09-19,2025-09,35,Female,United Kingdom
+104,17,The Long Way Home,Drama,131,2022,Elena Rossi,Oliver Grant; Mia Foster,4,2025-09-23,2025-09,27,Female,Spain
+107,21,Weekend Protocol,Comedy,113,2024,Isabel Costa,Mia Foster; Oliver Grant,5,2025-09-24,2025-09,29,Male,Brazil
+108,9,No Way Back,Thriller,128,2024,Elena Rossi,Sofia Reyes; Noah Bennett,5,2025-09-29,2025-09,21,Female,Germany
+109,8,Cold Evidence,Thriller,109,2019,Lucas Meyer,Marcus Reed; Mia Foster,5,2025-10-04,2025-10,42,Male,Poland
+112,12,Red Harvest,Horror,116,2018,Priya Shah,Marcus Reed; Lena Park,4,2025-10-05,2025-10,18,Female,Germany
+110,13,A Summer Apart,Romance,108,2016,Isabel Costa,Sofia Reyes; Oliver Grant,3,2025-10-09,2025-10,26,Female,Portugal
+113,23,The Forgotten Map,Adventure,118,2020,Mara Collins,Noah Bennett; Sofia Reyes,5,2025-10-10,2025-10,38,Male,Brazil
+111,2,Neon Horizon,Science Fiction,124,2021,Daniel Kim,Lena Park; Marcus Reed,3,2025-10-14,2025-10,33,Male,Canada
+114,3,Orbit 9,Science Fiction,98,2016,Mara Collins,Noah Bennett; Ava Brooks,4,2025-10-15,2025-10,25,Female,Italy
+115,2,Neon Horizon,Science Fiction,124,2021,Daniel Kim,Lena Park; Marcus Reed,3,2025-10-20,2025-10,30,Male,Spain
+116,17,The Long Way Home,Drama,131,2022,Elena Rossi,Oliver Grant; Mia Foster,5,2025-10-25,2025-10,23,Female,Portugal
+119,15,Almost Yesterday,Romance,99,2023,Daniel Kim,Ava Brooks; Noah Bennett,3,2025-10-26,2025-10,20,Female,Brazil
+117,21,Weekend Protocol,Comedy,113,2024,Isabel Costa,Mia Foster; Oliver Grant,5,2025-10-30,2025-10,45,Male,United States
+120,4,Silent Planet,Science Fiction,135,2023,Priya Shah,Sofia Reyes; Oliver Grant,3,2025-10-31,2025-10,36,Male,Germany
+118,4,Silent Planet,Science Fiction,135,2023,Priya Shah,Sofia Reyes; Oliver Grant,4,2025-11-04,2025-11,28,Male,United Kingdom
+101,1,The Last Signal,Science Fiction,112,2018,Mara Collins,Ethan Cole; Sofia Reyes,5,2025-11-05,2025-11,19,Male,Germany
+102,13,A Summer Apart,Romance,108,2016,Isabel Costa,Sofia Reyes; Oliver Grant,4,2025-11-10,2025-11,24,Female,Brazil
+103,24,Beyond the Ridge,Adventure,139,2023,Elena Rossi,Oliver Grant; Ava Brooks,4,2025-11-15,2025-11,31,Male,Portugal
+106,6,Midnight Runaway,Thriller,101,2017,Lucas Meyer,Mia Foster; Noah Bennett,5,2025-11-16,2025-11,35,Female,United Kingdom
+104,18,Paper Bridges,Drama,104,2017,Isabel Costa,Ethan Cole; Sofia Reyes,3,2025-11-20,2025-11,27,Female,Spain
+107,19,Final Whistle,Comedy,106,2015,Lucas Meyer,Noah Bennett; Marcus Reed,4,2025-11-21,2025-11,29,Male,Brazil
+105,11,The Hollow House,Horror,103,2021,Lucas Meyer,Mia Foster; Oliver Grant,4,2025-11-25,2025-11,22,Male,United States
+108,1,The Last Signal,Science Fiction,112,2018,Mara Collins,Ethan Cole; Sofia Reyes,3,2025-11-26,2025-11,21,Female,Germany
+109,4,Silent Planet,Science Fiction,135,2023,Priya Shah,Sofia Reyes; Oliver Grant,3,2025-12-01,2025-12,42,Male,Poland
+110,14,Letters in December,Romance,114,2020,Isabel Costa,Mia Foster; Ethan Cole,5,2025-12-06,2025-12,26,Female,Portugal
+113,24,Beyond the Ridge,Adventure,139,2023,Elena Rossi,Oliver Grant; Ava Brooks,4,2025-12-07,2025-12,38,Male,Brazil
+111,24,Beyond the Ridge,Adventure,139,2023,Elena Rossi,Oliver Grant; Ava Brooks,4,2025-12-11,2025-12,33,Male,Canada
+114,19,Final Whistle,Comedy,106,2015,Lucas Meyer,Noah Bennett; Marcus Reed,5,2025-12-12,2025-12,25,Female,Italy
+112,7,The Glass Room,Thriller,119,2022,Priya Shah,Oliver Grant; Ava Brooks,4,2025-12-16,2025-12,18,Female,Germany
+115,15,Almost Yesterday,Romance,99,2023,Daniel Kim,Ava Brooks; Noah Bennett,5,2025-12-17,2025-12,30,Male,Spain
+116,18,Paper Bridges,Drama,104,2017,Isabel Costa,Ethan Cole; Sofia Reyes,4,2025-12-22,2025-12,23,Female,Portugal
+117,7,The Glass Room,Thriller,119,2022,Priya Shah,Oliver Grant; Ava Brooks,4,2025-12-27,2025-12,45,Male,United States
+120,23,The Forgotten Map,Adventure,118,2020,Mara Collins,Noah Bennett; Sofia Reyes,4,2025-12-28,2025-12,36,Male,Germany
+118,18,Paper Bridges,Drama,104,2017,Isabel Costa,Ethan Cole; Sofia Reyes,2,2026-01-01,2026-01,28,Male,United Kingdom
+119,13,A Summer Apart,Romance,108,2016,Isabel Costa,Sofia Reyes; Oliver Grant,5,2026-01-06,2026-01,20,Female,Brazil

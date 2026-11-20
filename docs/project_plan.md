@@ -39,7 +39,14 @@
 | Select Challenge & Define Scope | Confirm Challenge 1 and define how popularity is measured | Italo | Done |
 | Define Sprint Goal & Risks | Write the sprint goal and document risks with mitigation | Italo | Done |
 | Set Up GitHub Repository | Create repo, organize folders, initialize README.md | Italo | Done |
-| _(remaining Kanban tasks)_ | _Add here as they are created on the board_ | Italo | To Do |
+| Load & Inspect Datasets | Load movies, users, and watch_history into the Jupyter Notebook and inspect shapes, data types, nulls, and duplicates | Italo | Done |
+| Clean & Merge Data | Handle missing values, standardize duration and date formats, parse multi-value fields if needed, and merge tables cleanly | Italo | Done |
+| Conduct Exploratory Data Analysis (EDA) | Analyze distributions, viewing volume, average ratings, and key title characteristics (genre, duration, release_year, director, cast) | Italo | To Do |
+| Create Visualizations | Build at least three clear, properly labeled charts illustrating patterns behind popular content | Italo | To Do |
+| Write Markdown & Business Insights | Add explanatory Markdown cells throughout the notebook, derive at least three business insights, and write final conclusions | Italo | To Do |
+| Final Notebook Check & Export | Run all cells from top to bottom without errors, capture a completion screenshot, and export PDF/HTML if desired | Italo | To Do |
+| Update GitHub & Checklist | Push the completed notebook, screenshot, and updated README.md to GitHub and verify all submission checklist items | Italo | To Do |
+| Complete Sprint Retrospective | Fill out the retrospective covering what went well, what could be improved, and what to continue doing in future projects | Italo | To Do |
 
 ## 6. Retrospective
 _To be written after project completion._
