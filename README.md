@@ -45,10 +45,10 @@ netflix-popularity-analysis/
 
 ## How to Run
 ```bash
-git clone <repository-url>
-cd netflix-popularity-analysis
+git clone https://github.com/Italoomoura/Netflix_Project_Assignment.git
+cd Netflix_Project_Assignment
 python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
+.venv\Scripts\activate
 pip install -r requirements.txt
 jupyter lab notebooks/netflix_analysis.ipynb
 ```
@@ -62,6 +62,3 @@ _To be completed after the analysis._
 
 ## Project Management
 Plan, sprint goal, risks and retrospective: [`docs/project_plan.md`](docs/project_plan.md)
-
-## Author
-Italo

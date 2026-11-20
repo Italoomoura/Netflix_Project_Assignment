@@ -36,9 +36,9 @@
 
 | Task | Description | Owner | Status |
 |---|---|---|---|
-| Select Challenge & Define Scope | Confirm Challenge 1 and define how popularity is measured | Italo | In Progress |
-| Define Sprint Goal & Risks | Write the sprint goal and document risks with mitigation | Italo | In Progress |
-| Set Up GitHub Repository | Create repo, organize folders, initialize README.md | Italo | In Progress |
+| Select Challenge & Define Scope | Confirm Challenge 1 and define how popularity is measured | Italo | Done |
+| Define Sprint Goal & Risks | Write the sprint goal and document risks with mitigation | Italo | Done |
+| Set Up GitHub Repository | Create repo, organize folders, initialize README.md | Italo | Done |
 | _(remaining Kanban tasks)_ | _Add here as they are created on the board_ | Italo | To Do |
 
 ## 6. Retrospective
