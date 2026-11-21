@@ -48,7 +48,7 @@ netflix-popularity-analysis/
 git clone https://github.com/Italoomoura/Netflix_Project_Assignment.git
 cd Netflix_Project_Assignment
 python -m venv .venv
-.venv\Scripts\activate
+.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 jupyter lab notebooks/netflix_analysis.ipynb
 ```

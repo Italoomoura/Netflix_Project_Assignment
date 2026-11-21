@@ -41,7 +41,7 @@
 | Set Up GitHub Repository | Create repo, organize folders, initialize README.md | Italo | Done |
 | Load & Inspect Datasets | Load movies, users, and watch_history into the Jupyter Notebook and inspect shapes, data types, nulls, and duplicates | Italo | Done |
 | Clean & Merge Data | Handle missing values, standardize duration and date formats, parse multi-value fields if needed, and merge tables cleanly | Italo | Done |
-| Conduct Exploratory Data Analysis (EDA) | Analyze distributions, viewing volume, average ratings, and key title characteristics (genre, duration, release_year, director, cast) | Italo | To Do |
+| Conduct Exploratory Data Analysis (EDA) | Analyze distributions, viewing volume, average ratings, and key title characteristics (genre, duration, release_year, director, cast) | Italo | Done |
 | Create Visualizations | Build at least three clear, properly labeled charts illustrating patterns behind popular content | Italo | To Do |
 | Write Markdown & Business Insights | Add explanatory Markdown cells throughout the notebook, derive at least three business insights, and write final conclusions | Italo | To Do |
 | Final Notebook Check & Export | Run all cells from top to bottom without errors, capture a completion screenshot, and export PDF/HTML if desired | Italo | To Do |
