@@ -28,14 +28,15 @@ Located in `data/raw/` (never edited):
 
 ## Project Structure
 ```
-netflix-popularity-analysis/
+Netflix_Project_Assignment/
 ├── data/
 │   ├── raw/                # original CSV files
 │   └── processed/          # cleaned/merged data
 ├── notebooks/
 │   └── netflix_analysis.ipynb
 ├── reports/
-│   └── figures/            # exported charts, PDF/HTML of the notebook
+│   ├── figures/            # exported charts
+│   └── netflix_analysis.html  # HTML export of the executed notebook
 ├── docs/
 │   └── project_plan.md     # scope, sprint goal, risks, kanban, retrospective
 ├── requirements.txt
@@ -54,7 +55,13 @@ jupyter lab notebooks/netflix_analysis.ipynb
 ```
 
 ## Key Insights
-_To be completed after the analysis._
+1. **Duration is the strongest correlate of popularity.** Longer titles get more views and better ratings (Spearman r ≈ 0.56 and 0.57), and the pattern holds inside each genre. All six popular titles are 108 minutes or longer.
+2. **Science Fiction and Adventure lead; Horror trails.** Science Fiction has the most views per title (5.8) and 3 of the 6 popular titles; Adventure has the best average rating (4.35).
+3. **Popularity is not satisfaction.** Views and ratings are only weakly related (r ≈ 0.15); seven well-rated titles are under-watched ("hidden gems").
+4. **Reach and repeat viewing both drive views.** One third of records are re-watches, concentrated in popular titles (44% vs 26%).
+5. **Director and cast explain little**, so they should not be the main investment criterion with this data.
+
+Full analysis, evidence and recommendations: `notebooks/netflix_analysis.ipynb` (HTML export in `reports/netflix_analysis.html`).
 
 ## Limitations
 - Small sample (24 movies, 20 users, 120 views): results are indications, not statistical proof.
@@ -62,3 +69,6 @@ _To be completed after the analysis._
 
 ## Project Management
 Plan, sprint goal, risks and retrospective: [`docs/project_plan.md`](docs/project_plan.md)
+
+## Author
+Italo
