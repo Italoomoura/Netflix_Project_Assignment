@@ -17,7 +17,7 @@
 
 ## 2. Sprint Goal
 
-> Deliver, by **22/11/2026**, a complete analysis of Challenge 1 in a reproducible Jupyter Notebook that identifies which characteristics are associated with more views and higher ratings on Netflix, with at least 3 visualizations, 3 business insights and a documented GitHub repository.
+> Deliver, by the end of the sprint, a complete analysis of Challenge 1 in a reproducible Jupyter Notebook that identifies which characteristics are associated with more views and higher ratings on Netflix, with at least 3 visualizations, 3 business insights and a documented GitHub repository.
 
 ## 3. Risks and Mitigation
 
@@ -34,23 +34,40 @@
 
 ## 5. Project Plan
 
-| Task | Description | Owner | Status |
-|---|---|---|---|
-| Select Challenge & Define Scope | Confirm Challenge 1 and define how popularity is measured | Italo | Done |
-| Define Sprint Goal & Risks | Write the sprint goal and document risks with mitigation | Italo | Done |
-| Set Up GitHub Repository | Create repo, organize folders, initialize README.md | Italo | Done |
-| Load & Inspect Datasets | Load movies, users, and watch_history into the Jupyter Notebook and inspect shapes, data types, nulls, and duplicates | Italo | Done |
-| Clean & Merge Data | Handle missing values, standardize duration and date formats, parse multi-value fields if needed, and merge tables cleanly | Italo | Done |
-| Conduct Exploratory Data Analysis (EDA) | Analyze distributions, viewing volume, average ratings, and key title characteristics (genre, duration, release_year, director, cast) | Italo | Done |
-| Create Visualizations | Build at least three clear, properly labeled charts illustrating patterns behind popular content | Italo | Done |
-| Write Markdown & Business Insights | Add explanatory Markdown cells throughout the notebook, derive at least three business insights, and write final conclusions | Italo | Done |
-| Final Notebook Check & Export | Run all cells from top to bottom without errors, capture a completion screenshot, and export PDF/HTML if desired | Italo | To Do |
-| Update GitHub & Checklist | Push the completed notebook, screenshot, and updated README.md to GitHub and verify all submission checklist items | Italo | To Do |
-| Complete Sprint Retrospective | Fill out the retrospective covering what went well, what could be improved, and what to continue doing in future projects | Italo | To Do |
+Kanban board: `docs/kanban_board.png` (screenshot of the final board, all cards in Done).
+
+| # | Task | Description | Owner | Status |
+|---|---|---|---|---|
+| 1 | Select Challenge & Define Scope | Confirm Challenge 1 and define how popularity is measured | Italo | Done |
+| 2 | Define Sprint Goal & Risks | Write the sprint goal and document risks with mitigation | Italo | Done |
+| 3 | Set Up GitHub Repository | Create repo, organize folders, initialize README.md | Italo | Done |
+| 4 | Load & Inspect Datasets | Load the three tables and inspect shapes, types, nulls and duplicates | Italo | Done |
+| 5 | Clean & Merge Data | Validate missing values, standardize names, durations and dates, parse `cast`, merge tables | Italo | Done |
+| 6 | Conduct EDA | Analyze distributions, viewing volume, ratings and title characteristics | Italo | Done |
+| 7 | Create Visualizations | Build four labeled charts illustrating patterns behind popular content | Italo | Done |
+| 8 | Write Markdown & Business Insights | Add explanatory Markdown, derive five business insights, write conclusions | Italo | Done |
+| 9 | Final Notebook Check & Export | Run all cells top to bottom, capture screenshot, export HTML/PDF | Italo | Done |
+| 10 | Update GitHub & Checklist | Push final files and verify the submission checklist | Italo | Done |
+| 11 | Complete Sprint Retrospective | Write the retrospective | Italo | Done |
 
 ## 6. Retrospective
-_To be written after project completion._
 
-- What went well?
-- What could be improved?
-- What should I continue doing in future projects?
+### What went well?
+- **Early data validation paid off.** Inspecting the three tables before analyzing them exposed a mislabeled column (`users.genre` actually holds gender), dates stored as text and 32 repeated user–movie pairs. Each issue was handled and documented, and the merge was validated (120 rows preserved, no nulls, no lost movies or users).
+- **A measurable definition of popularity.** Defining popularity from `watch_history` (views, unique viewers, average rating, top 25% of titles) kept the analysis focused, and normalizing by number of titles avoided catalog-size bias between genres.
+- **Small, well-defined Kanban cards.** Working alone, splitting the project into 11 tasks with a clear "done" for each kept steady progress and made it easy to see what was left.
+- **Checks before conclusions.** Before writing insights, I tested whether the duration effect was only a genre effect and whether it held when popularity meant reach instead of views. This made the insights more reliable and the limitations explicit.
+- **Reproducible and version-controlled.** The notebook runs from top to bottom without errors and the work lives in a GitHub repository with a README.
+
+### What could be improved?
+- **Inspect the data before writing scope and risks.** The first versions of the scope and risks were written before looking at the actual dataset and had to be revised. Next time, a quick look at the data comes first.
+- **Small sample.** With 24 titles, 20 users and 120 records, the findings are indications, not proof. I should flag sample-size limits at the start of the project and look for complementary data (for example watch time or completion rate).
+- **No second pair of eyes.** Working alone meant there was no peer review of the insights or the charts. Asking a classmate to review the final notebook would catch weak spots.
+- **Check visuals earlier.** Some chart labels overlapped and only showed up when reviewing the images. Looking at each chart right after creating it saves rework.
+
+### What should I continue doing in future projects?
+- Validate and document data-cleaning decisions early.
+- Compare groups on a normalized basis and state limitations honestly.
+- Break the work into small Kanban tasks with clear completion criteria.
+- Structure notebooks as explanation, code and interpretation.
+- Use version control from the first day.
